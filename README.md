@@ -71,21 +71,6 @@ The server will start at: **http://localhost:8087**
 
 ---
 
-## 🐳 Docker Deployment  
-
-### 1️⃣ Build the Docker Image  
-```sh
-docker build -t online-bookstore .
-```
-
-### 2️⃣ Run the Container  
-```sh
-docker run -p 8087:8087 online-bookstore
-```
-Now, the API will be accessible at **http://localhost:8087**  
-
----
-
 ## 📜 License  
 This project is **open-source** and available under the **MIT License**.  
 

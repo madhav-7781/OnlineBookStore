@@ -18,7 +18,7 @@ OnlineBookStore is a **Spring Boot-based REST API** that provides CRUD operation
 ## 🏗️ Tech Stack  
 - **Backend**: Java, Spring Boot, Spring Security, Hibernate, JWT  
 - **Database**: MySQL  
-- **Tools**: Maven, Swagger, Docker, GitHub  
+- **Tools**: Maven, Swagger, GitHub  
 
 ---
 

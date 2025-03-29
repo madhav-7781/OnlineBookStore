@@ -33,7 +33,7 @@ cd OnlineBookStore
 ### 2️⃣ Configure MySQL Database  
 Update `application.properties` with your MySQL credentials:  
 ```properties
-spring.datasource.url=jdbc:mysql://localhost:3306/zynetic_db?useSSL=false&serverTimezone=UTC
+spring.datasource.url=jdbc:mysql://localhost:3306/zynetic_db?useSSL=false
 spring.datasource.username=root
 spring.datasource.password=yourpassword
 ```

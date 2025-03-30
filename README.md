@@ -53,7 +53,7 @@ The server will start at: **http://localhost:8087**
 ## 📌 API Endpoints  
 
 ### 🔑 Authentication  
-- **`POST /auth/register`** → Register a new user  
+- **`POST /auth/signUp`** → Register a new user  
 - **`POST /auth/login`** → Login and get JWT token  
 
 ### 📖 Book Management  
